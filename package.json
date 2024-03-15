@@ -1,0 +1,16 @@
+{
+  "name": "pdf-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./MainWindow/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gerome Blanco",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.1.4",
+    "python-shell": "^5.0.0",
+    "sweetalert2": "^11.10.6"
+  }
+}
